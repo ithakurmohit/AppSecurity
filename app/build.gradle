@@ -5,7 +5,7 @@ plugins {
 
 enigma.enabled = true
 enigma.injectFakeKeys = true
-enigma.ignoredClasses = ["com.example.appsecurity.AesCipher"]
+enigma.ignoredClasses = ["com.example.appsecurity.AesCipher.java"]
 
 android {
     compileSdk 32

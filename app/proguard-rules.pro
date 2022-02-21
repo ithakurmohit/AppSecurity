@@ -3,11 +3,7 @@
 # proguardFiles setting in build.gradle.
 #
 
--obfuscationdictionary method-dictionary.txt
--packageobfuscationdictionary package-dictionary.txt
--classobfuscationdictionary class-dictionary.txt
-# For more details, see
--repackageclasses 'o'
+
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
 # If your project uses WebView with JS, uncomment the following
